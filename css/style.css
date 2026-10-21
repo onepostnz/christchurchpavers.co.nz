@@ -539,3 +539,7 @@ footer{background:#0f1b2b}
 .text li a:hover{text-decoration:underline}
 
 .sec-cream{background:#fcf6e9}
+
+header.classic nav.links > a,header.classic .nav-item > a{color:#ce3102}
+header.classic nav.links a:hover{color:#8f2200}
+header.classic nav.links{flex-wrap:wrap;gap:8px 22px}
